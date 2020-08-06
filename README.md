@@ -1,14 +1,11 @@
 # Proffy App 🚀
 
-- Main page 💻
-
 <hr>
 
-- Professor page 💻
+  ![picture](img/proffyLanding.png)
   - Professor list.
   - Filter by subject, day of week and time.
   - Price and Professors contact
-
 
 - Developing API rest
   - Creating classes to professors
@@ -21,9 +18,9 @@
   - TypeScript
   - Express
   - Knex
+  - React Native
+  - Expo
 
 
-- [X] Concluding teacher form page
-- [X] Concluding front-end
-- [X] Conecting back-end to front-end
-- [X] Contador de conexões adicionado a pagina inicial (Landing page).
+  
+
